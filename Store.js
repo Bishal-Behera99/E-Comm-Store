@@ -6,6 +6,5 @@ export default configureStore({
   reducer: {
     Productreducer: Productslice,
     Cartreducer: Cartslice,
-    Dishreducer: Dishslice,
   },
 });
