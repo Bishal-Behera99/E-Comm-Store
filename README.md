@@ -24,4 +24,5 @@
 
 # Adding Product Prices according to quantity of different products.
 
-![Screenshot (50)](https://github.com/Bishal-Behera99/E-Comm-Store/assets/166694162/fd643d36-226d-4889-8dc5-13b1ed579203)
+![Screenshot (52)](https://github.com/Bishal-Behera99/E-Comm-Store/assets/166694162/35d6899d-7213-445b-a2d5-16fbaeeac9ba)
+
