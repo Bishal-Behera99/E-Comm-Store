@@ -29,7 +29,7 @@ function Product({ data }) {
             display: "flex",
             justifyContent: "space-evenly",
             padding: "10px",
-            width: "50%",
+            width: "49%",
           }}
         >
           <button
